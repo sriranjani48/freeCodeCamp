@@ -1,0 +1,24 @@
+body{
+	background-color:lightblue;
+	text-align: center;		
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+
+}
+
+.form {
+	font-size: 20px;
+	border: 0px solid lightblue;
+	background-color: gray;
+	border-width: 20px 600px 40px 550px;
+	font-family: serif;
+	font-family: sans-serif;
+}
+#agefiels {
+	padding: 0px 20px 0px 20px;
+}
+.button {
+	background-color: tomato;
+	font-size: 20px;
+	border-radius: 200%;
+}
